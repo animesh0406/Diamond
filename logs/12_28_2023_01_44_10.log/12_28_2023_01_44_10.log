@@ -1,0 +1,4 @@
+[2023-12-28 01:44:11,380] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-12-28 01:44:13,178] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-12-28 01:44:13,191] 224 werkzeug - INFO -  * Debugger PIN: 341-465-243
+[2023-12-28 01:46:58,452] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py', reloading

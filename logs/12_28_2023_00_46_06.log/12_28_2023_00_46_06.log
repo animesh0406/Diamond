@@ -1,0 +1,13 @@
+[2023-12-28 00:46:06,946] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-12-28 00:46:11,509] 224 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.7:8000
+[2023-12-28 00:46:11,509] 224 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2023-12-28 00:46:11,540] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2023-12-28 00:52:05,366] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2023-12-28 01:42:10,107] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2023-12-28 01:43:11,486] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2023-12-28 01:44:07,890] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2023-12-28 01:46:59,713] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2023-12-28 01:53:13,706] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)

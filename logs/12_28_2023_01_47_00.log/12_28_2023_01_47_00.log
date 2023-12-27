@@ -1,0 +1,22 @@
+[2023-12-28 01:47:00,678] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-12-28 01:47:03,339] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-12-28 01:47:03,349] 224 werkzeug - INFO -  * Debugger PIN: 341-465-243
+[2023-12-28 01:53:09,230] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\setup.py', reloading
+[2023-12-28 01:53:09,343] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\src\\exception.py', reloading
+[2023-12-28 01:53:09,344] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\src\\logger.py', reloading
+[2023-12-28 01:53:09,367] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\src\\components\\data_ingestion.py', reloading
+[2023-12-28 01:53:09,390] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\src\\components\\data_transformation.py', reloading
+[2023-12-28 01:53:09,403] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\__future__.py', reloading
+[2023-12-28 01:53:09,406] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\__phello__.foo.py', reloading
+[2023-12-28 01:53:09,418] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_bootlocale.py', reloading
+[2023-12-28 01:53:09,437] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_collections_abc.py', reloading
+[2023-12-28 01:53:09,494] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_compat_pickle.py', reloading
+[2023-12-28 01:53:09,506] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_compression.py', reloading
+[2023-12-28 01:53:09,506] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_dummy_thread.py', reloading
+[2023-12-28 01:53:09,513] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_markupbase.py', reloading
+[2023-12-28 01:53:09,514] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_osx_support.py', reloading
+[2023-12-28 01:53:09,549] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_py_abc.py', reloading
+[2023-12-28 01:53:09,570] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_pydecimal.py', reloading
+[2023-12-28 01:53:09,723] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_pyio.py', reloading
+[2023-12-28 01:53:09,913] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_sitebuiltins.py', reloading
+[2023-12-28 01:53:09,936] 224 werkzeug - INFO -  * Detected change in 'D:\\Projects\\Project2_Prediction\\venv\\Lib\\_strptime.py', reloading
